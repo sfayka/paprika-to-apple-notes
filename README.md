@@ -46,7 +46,7 @@ A Python CLI tool that converts Paprika recipe HTML exports to clean, beautifull
 
    Example:
    ```bash
-   python paprika_to_apple_notes.py "/Users/username/Documents/Recipes from Paprika/Export 2025-03-16 17.31.17 All Recipes/Recipes" -o "apple_notes_recipes"
+   python paprika_to_apple_notes.py "~/Documents/Paprika Export/Recipes" -o "apple_notes_recipes"
    ```
 
 3. **Import into Apple Notes**:
